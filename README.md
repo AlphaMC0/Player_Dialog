@@ -1,5 +1,5 @@
 # Player_Dialogue
-**Entry Dialogue**
+- **Entry Dialogue**
 - S.Nika...Where are you
 - What happened...
 - Where is everyone...
@@ -8,7 +8,7 @@
 - I can't remember...
 - I found a card...
 - Is that me ? ...
-**Base Dialogue**
+- **Base Dialogue**
 - Wait...
 - I remember now I'm in Base 51
 + Sirens +
@@ -23,7 +23,7 @@
 - I don't have much time
 - Enable the coolers now.
 - Phew...That was close.
-**Restoration Dialogue**
+- **Restoration Dialogue**
 - There aren't any raw materials left in the base.
 - I have to take the rover to the drilling rig.
 - Start the rover with the card.
